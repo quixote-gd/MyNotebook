@@ -1,5 +1,5 @@
 ## Purpose
-The purpose of this sample project is to analyze clean architecture. I want to understand how the dependancies work and why this pattern makes a project framework dependent and more agile.
+The purpose of this sample project is to analyze clean architecture. I want to understand how the dependencies work and why this pattern makes a project framework dependent and more agile.
 
 The project's end goal is to save an web article's text and allow a user to persist highlights and take notes (pretty much pocket).
 

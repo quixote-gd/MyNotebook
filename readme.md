@@ -20,5 +20,7 @@ The Core
  - The domain layer holds entities, enums, exceptions, types and logic specific to the domain. 
  - The application layer holds all application logic. It is dependent on the domain layer, but has no dependencies on any other layer or project.
    - Thin Controllers with CQRS and MediatR
+   - AutoMapper
+   - Fluent Validation
 Infrastructure
  - The database layer contains classes for accessing the database. The main classes should be based on an interface defined within the application layer.

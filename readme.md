@@ -22,5 +22,6 @@ The Core
    - Thin Controllers with CQRS and MediatR
    - AutoMapper
    - Fluent Validation
+
 Infrastructure
  - The database layer contains classes for accessing the database. The main classes should be based on an interface defined within the application layer.

@@ -26,5 +26,5 @@ The Core
 Infrastructure
  - The database layer contains classes for accessing the database. The main classes should be based on an interface defined within the application layer.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/quixote-gd/MyNotebook/blob/master/documentation/clean-architecture.png "Clean Architecture")
 

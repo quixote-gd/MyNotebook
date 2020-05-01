@@ -12,6 +12,6 @@ namespace Database
         {
         }
 
-        public DbSet<Text> Text { get; set; }
+        public DbSet<Article> Article { get; set; }
     }
 }
